@@ -1,0 +1,11 @@
+admin, adm1n
+thor, odin
+peter, parker
+jacky, chan
+captain, america
+doctor, strange
+spider, man
+black, widow
+hulk, smash
+tony, stark
+michael, knight
